@@ -80,3 +80,7 @@ config.json
 # Raspberry Pi specific
 *.img
 *.iso
+
+# Copilot files
+.copilot/
+
